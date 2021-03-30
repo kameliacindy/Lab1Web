@@ -4,3 +4,5 @@
 Pada dokumen web, paragraf biasanya digunakan untuk menampilkan teks atau artikel. Paragraf dalam dokumen HTML dibuat dengan tag `<p>` .
 Di bawah ini contoh paragraf sederhana yang dibuat pada HTML:
 
+![enter image description here](https://github.com/kameliacindy/Lab1Web/blob/main/img/kodepar1.PNG)
+
