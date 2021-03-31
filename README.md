@@ -26,8 +26,8 @@ Judul memiliki 6 level yaitu mulai dari h1 sampai h6. Dengan cara  menambahkan j
 
  Dan seperti ini tampilan judul Heading 1 dan Heading 2:
  
- ![enter image description here](https://github.com/kameliacindy/Lab1Web/blob/main/img/kodejudul.PNG)
-
+ ![enter image description here](https://github.com/kameliacindy/Lab1Web/blob/main/img/judul.PNG)
+ 
 ### 3. Memformat Teks
 
 ![enter image description here](https://github.com/kameliacindy/Lab1Web/blob/main/img/kodeformat.PNG)
