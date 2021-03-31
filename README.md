@@ -62,3 +62,8 @@ Untuk membuat Hyperlink menggunakan tag `<a>` dengan menambahkan atribut `<href>
 Hasilnya:
 
 ![enter image description here](https://github.com/kameliacindy/Lab1Web/blob/main/img/link.PNG)
+
+Nama	: Kamelia Cindy Astuti
+NIM	: 311910104
+Kelas	: TI. 19. A. 1
+
