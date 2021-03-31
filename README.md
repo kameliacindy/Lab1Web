@@ -69,13 +69,13 @@ Hasilnya:
 1. Tidak ada error
 2. **Tag `<p>`** digunakan untuk membuat paragraph baru dimana terdapat jarak antar paragraph, sedangkan **tag `<br>`** digunakan untuk pidah ke baris baru tanpa memberikan ruang/jarak.
 3. Perbedaan alt dan tittle pada tag `<img`>:
-
 **Alt text** atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. Text alternatif juga sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak.
-
 **Title image** adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar Anda. Text yang Anda masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. Sebaliknya, tag judul gambar ini ditampilkan saat Anda menyorot gambar dengan mouse.
+
 4. Boleh diisi semua, boleh salah satu.
  - Untuk mengatur gambar agar tampil proporsional gunakan width dan height sesuai ukuran aslinya, jika ingin mengecilkan gunakan ukuran yang proposional misal, kita akan ubah width 50px dan height 50px.
  - Cara mengecilkan gambar pada html yang baik hanya mengubah width atau heightnya saja, cara ini lebih disarankan karena height akan mengikuti width gambar tersebut jadi akan terlihat proporsional
+ 
 5. **_blank, _self, _top, _parent**
 
 **_blank** : untuk membuka link di tab baru
