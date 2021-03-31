@@ -75,7 +75,9 @@ Hasilnya:
  - Untuk mengatur gambar agar tampil proporsional gunakan width dan height sesuai ukuran aslinya, jika ingin mengecilkan gunakan ukuran yang proposional misal, kita akan ubah width 50px dan height 50px.
  - Cara mengecilkan gambar pada html yang baik hanya mengubah width atau heightnya saja, cara ini lebih disarankan karena height akan mengikuti width gambar tersebut jadi akan terlihat proporsional
 5. **_blank, _self, _top, _parent**
+
 **_blank** : untuk membuka link di tab baru
+
 **_self** : untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target
 **_top** : untuk membuka link di frame paling atas (paling luar).
 **_parent** : untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
