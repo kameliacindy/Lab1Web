@@ -74,7 +74,7 @@ Hasilnya:
 
 4. Boleh diisi semua, boleh salah satu.
  - Untuk mengatur gambar agar tampil proporsional gunakan width dan height sesuai ukuran aslinya, jika ingin mengecilkan gunakan ukuran yang proposional misal, kita akan ubah width 50px dan height 50px.
- - Cara mengecilkan gambar pada html yang baik hanya mengubah width atau heightnya saja, cara ini lebih disarankan karena height akan mengikuti width gambar tersebut jadi akan terlihat proporsional
+ - Cara mengecilkan gambar pada html yang baik hanya mengubah width atau heightnya saja, cara ini lebih disarankan karena height akan mengikuti width gambar tersebut jadi akan terlihat proporsional 
  
 5. **_blank, _self, _top, _parent**
 
